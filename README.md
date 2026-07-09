@@ -1,4 +1,4 @@
-# 🚆 Train Consist Management System
+# Train Consist Management System
 
 A Java-based project developed as part of the Bridgelabz Java Training Program.
 
@@ -6,7 +6,7 @@ This project demonstrates Java fundamentals, Collections Framework, Streams API,
 
 ---
 
-## 📚 Technologies Used
+## Technologies Used
 
 - Java
 - Collections Framework
@@ -19,7 +19,7 @@ This project demonstrates Java fundamentals, Collections Framework, Streams API,
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 Each branch represents a separate Use Case (UC).
 
@@ -48,7 +48,7 @@ Each branch represents a separate Use Case (UC).
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 - Java Collections
 - Stream API
